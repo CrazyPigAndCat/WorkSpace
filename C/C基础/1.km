@@ -1,0 +1,96 @@
+{
+    "root": {
+        "data": {
+            "id": "ce3fepvj82o0",
+            "created": 1630994814211,
+            "text": "数组的使用"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "ce3feuc5q140",
+                    "created": 1630994823923,
+                    "text": "注意数组的含义"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "ce3ff47a34w0",
+                    "created": 1630994845396,
+                    "text": "注意指针数组和数组指针"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "ce3ffblheqo0",
+                    "created": 1630994861492,
+                    "text": "++i于i++的区别"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ce3ffkgir1c0",
+                            "created": 1630994880783,
+                            "text": "++i"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ce3ffmkge800",
+                            "created": 1630994885375,
+                            "text": "i++"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ce3fh3dek540",
+                    "created": 1630995000318,
+                    "text": "在编程的时候需要注意边界问题"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "ce3fhrqucjk0",
+                    "created": 1630995053373,
+                    "text": "二位数组就是一维数组"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "ce3galj0uao0",
+                    "created": 1630997312400,
+                    "text": "字符串的本质就是字符数组"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ce3gceh9xug0",
+                            "created": 1630997453786,
+                            "text": "保证被赋值的字符数组足够大"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ce3gcp7a3880",
+                            "created": 1630997477126,
+                            "text": "保存参与额字符串合法"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}

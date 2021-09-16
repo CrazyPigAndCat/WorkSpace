@@ -1,0 +1,7 @@
+只有变量才会占用内存
+sizeof
+    功能：获取类型或者变量所占用的内存大小
+    用法：sizeof(type)；sizeof(variable)；sizeof variable
+
+    ---
+
