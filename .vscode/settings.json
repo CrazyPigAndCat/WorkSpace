@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "opm.h": "c"
-    }
+        "opm.h": "c",
+        "type_traits": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }
