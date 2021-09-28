@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-09-28 11:14:43
- * @LastEditTime: 2021-09-28 15:32:59
+ * @LastEditTime: 2021-09-28 19:39:12
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /WorkSpace/C++/01进化后const.md
@@ -17,6 +17,7 @@
 - const只在编译期有用，在运行期无用
 
 > const修饰变量不是真的常量，它只是告诉编译器该变量不能出现在赋值符号的左边
+
 
 - C语言中的const使得变量具有只读属性
 - const将具有全局生命周期的变量存储于只读存储区
