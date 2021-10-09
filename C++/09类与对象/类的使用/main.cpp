@@ -1,14 +1,14 @@
 /*
  * @Author: your name
  * @Date: 2021-10-09 14:41:02
- * @LastEditTime: 2021-10-09 14:52:48
+ * @LastEditTime: 2021-10-09 16:06:32
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /WorkSpace/C++/09类与对象/类的使用/main.cpp
  */
 
 #include <stdio.h>
-#include "Operator.h"
+#include "Operator.cpp"
 
 int main(int argc, char const *argv[])
 {
